@@ -74,55 +74,60 @@ Brief description of your project.
 - **Data-Driven-Postdoctoral-Insights:** `README.md`
 - **Functionality:**
 
-Functionality:
+## 8. Functionality:
 
 Descriptive Analysis Code:
 File: descriptive_analysis.py
 
-Description:
+- Description:
 Calculates descriptive statistics and frequencies.
 Generates a summary report with missing percentages, means, medians, and more.
 
-Instructions:
+- Instructions:
 Ensure you have the dataset in the specified format.
 Run the script to obtain descriptive statistics.
 Review the generated summary report in 'Result_Data_Summary.xlsx'.
 
-Frequency Analysis Code:
+- Frequency Analysis Code:
 File: frequency_analysis.py
 
-Description:
+- Description:
 Performs frequency analysis on categorical variables.
 Produces frequency tables for different groups of columns.
 
-Instructions:
+- Instructions:
 Load the dataset required for frequency analysis.
 Run the script to generate frequency tables.
 Explore the results in 'Result_Frequency_tables.xlsx'.
 Data Preprocessing and Linear Regression Models:
 File: data_preprocessing_and_regression.py
 
-Description:
+- Description:
 Handles missing data through imputation strategies.
 Applies label encoding to categorical variables.
 Executes linear regression models with various covariates.
 
-Instructions:
+- Instructions:
 Load the merged dataset for postdoc data.
 Run the script to preprocess and model the data.
 Explore the results in 'Main_Results.xlsx'.
 
-How to Run:
+### How to Run:
 
-Descriptive Analysis:
-python descriptive_analysis.py
+1. **Descriptive Analysis:**
+    ```bash
+    python descriptive_analysis.py
+    ```
 
+2. **Frequency Analysis:**
+    ```bash
+    python frequency_analysis.py
+    ```
 
-Frequency Analysis:
-python frequency_analysis.py
-
-Data Preprocessing and Regression:
-python data_preprocessing_and_regression.py
+3. **Data Preprocessing and Regression:**
+    ```bash
+    python data_preprocessing_and_regression.py
+    ```
 
 Feel free to clone the repository and explore each code file for detailed information.
 
