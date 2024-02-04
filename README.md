@@ -17,7 +17,7 @@ Brief description of your project.
 
 ## 1. Data Preparation and Exploration
 
-- **Code Title:** `Data_Preparation_and_Exploration.ipynb`
+- **Code Title:** `Data_Preparation_and_Exploration.py`
 - **Functionality:**
   - Load and merge datasets.
   - Handle categorical variables.
@@ -27,7 +27,7 @@ Brief description of your project.
 
 ## 2. Missing Data Analysis
 
-- **Code Title:** `Missing_Data_Analysis.ipynb`
+- **Code Title:** `Missing_Data_Analysis.py`
 - **Functionality:**
   - Perform a descriptive analysis of missing data.
   - Calculate missing data percentages.
@@ -36,7 +36,7 @@ Brief description of your project.
 
 ## 3. Frequency Analysis
 
-- **Code Title:** `Frequency_Analysis.ipynb`
+- **Code Title:** `Frequency_Analysis.py`
 - **Functionality:**
   - Generate frequency tables for categorical variables.
   - Include percentages and cumulative frequencies.
@@ -45,7 +45,7 @@ Brief description of your project.
 
 ## 4. Linear Regression Models
 
-- **Code Title:** `Linear_Regression_Models.ipynb`
+- **Code Title:** `Linear_Regression_Models.py`
 - **Functionality:**
   - Fit linear regression models for multiple outcomes.
   - Handle categorical variables using label encoding.
@@ -54,7 +54,7 @@ Brief description of your project.
 
 ## 5. Imputation Strategies
 
-- **Code Title:** `Imputation_Strategies.ipynb`
+- **Code Title:** `Imputation_Strategies.py`
 - **Functionality:**
   - Implement imputation strategies for missing values.
   - Use column means for simple imputation.
@@ -63,7 +63,7 @@ Brief description of your project.
 
 ## 6. Sensitivity Analysis
 
-- **Code Title:** `Sensitivity_Analysis.ipynb`
+- **Code Title:** `Sensitivity_Analysis.py`
 - **Functionality:**
   - Conduct sensitivity analysis on imputed data.
   - Assess robustness of results under different missing data assumptions.
