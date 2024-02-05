@@ -27,7 +27,7 @@ Brief description of your project.
 
 ## 2. Missing Data Analysis
 
-- **Code Title:** `Missing_Data_Analysis.py`
+- **Code Title:** `descriptive_analysis.py`
 - **Functionality:**
   - Perform a descriptive analysis of missing data.
   - Calculate missing data percentages.
@@ -36,7 +36,7 @@ Brief description of your project.
 
 ## 3. Frequency Analysis
 
-- **Code Title:** `Frequency_Analysis.py`
+- **Code Title:** `frequency_analysis.py`
 - **Functionality:**
   - Generate frequency tables for categorical variables.
   - Include percentages and cumulative frequencies.
@@ -54,7 +54,7 @@ Brief description of your project.
 
 ## 5. Imputation Strategies
 
-- **Code Title:** `Imputation_Strategies.py`
+- **Code Title:** `data_preprocessing_and_regression.py`
 - **Functionality:**
   - Implement imputation strategies for missing values.
   - Use column means for simple imputation.
