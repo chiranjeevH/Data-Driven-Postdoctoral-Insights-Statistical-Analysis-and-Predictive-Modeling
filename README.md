@@ -1,5 +1,3 @@
-# Data-Driven-Postdoctoral-Insights-Statistical-Analysis-and-Predictive-Modeling
-
 
 
 # University of Pittsburgh - PostDoc Researchers Success Impact Analysis based on Diffrent Metrics
