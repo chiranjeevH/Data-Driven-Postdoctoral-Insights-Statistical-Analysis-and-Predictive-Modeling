@@ -5,9 +5,9 @@
 Brief description of your project.
 
 ## Table of Contents
-1. [Data Preparation and Exploration](#1-data-preparation-and-exploration)
-2. [Missing Data Analysis](#2-missing-data-analysis)
-3. [Frequency Analysis](#3-frequency-analysis)
+1. [Missing Data Analysis](#1-missing-data-analysis)
+2. [Frequency Analysis](#2-frequency-analysis)
+3. [Data Preparation and Exploration](#3-data-preparation-and-exploration)
 4. [Linear Regression Models](#4-linear-regression-models)
 5. [Imputation Strategies](#5-imputation-strategies)
 6. [Sensitivity Analysis](#6-sensitivity-analysis)
@@ -15,7 +15,8 @@ Brief description of your project.
 
 
 
-## 1. Missing Data Analysis ssing Descriptive Analysis - to summarize the data.
+
+## 1. Missing Data Analysis ssing Descriptive Analysis - to summarize the data
 
 - **Code Title:** `Descriptive_Analysis.py`
 - **Functionality:**
