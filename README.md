@@ -10,7 +10,7 @@ Brief description of your project.
 3. [Data Preparation and Exploration](#3-data-preparation-and-exploration)
 4. [Linear Regression Models](#4-linear-regression-models)
 5. [Imputation Strategies](#5-imputation-strategies)
-6. [Sensitivity Analysis](#6-sensitivity-analysis)
+6. [Sensitivity Analysis]( #6-sensitivity-analysis)
 7. [GitHub Repository Organization](#7-github-repository-organization)
 
 
