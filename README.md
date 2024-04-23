@@ -15,17 +15,18 @@ Brief description of your project.
 
 ## 1. Data Preparation and Exploration
 
-- **Code Title:** `Data_Preparation_and_Exploration.py`
+- **Code Title:** `Regression_Model.py` 
 - **Functionality:**
+- Initial Steps Include processing and handeling the data
   - Load and merge datasets.
   - Handle categorical variables.
   - Filter data based on specific criteria.
   - Conduct exploratory data analysis (EDA).
   - Identify missing data patterns.
 
-## 2. Missing Data Analysis
+## 2. Missing Data Analysis ssing Descriptive Analysis - to summarize the data.
 
-- **Code Title:** `descriptive_analysis.py`
+- **Code Title:** `Descriptive_Analysis.py`
 - **Functionality:**
   - Perform a descriptive analysis of missing data.
   - Calculate missing data percentages.
@@ -34,7 +35,7 @@ Brief description of your project.
 
 ## 3. Frequency Analysis
 
-- **Code Title:** `frequency_analysis.py`
+- **Code Title:** `Frequency_Analysis.py`
 - **Functionality:**
   - Generate frequency tables for categorical variables.
   - Include percentages and cumulative frequencies.
@@ -43,7 +44,7 @@ Brief description of your project.
 
 ## 4. Linear Regression Models
 
-- **Code Title:** `Linear_Regression_Models.py`
+- **Code Title:** `Regression_Model.py`
 - **Functionality:**
   - Fit linear regression models for multiple outcomes.
   - Handle categorical variables using label encoding.
@@ -52,8 +53,9 @@ Brief description of your project.
 
 ## 5. Imputation Strategies
 
-- **Code Title:** `data_preprocessing_and_regression.py`
+- **Code Title:** `Regression_Model.py`
 - **Functionality:**
+- Code Includes:
   - Implement imputation strategies for missing values.
   - Use column means for simple imputation.
   - Apply multiple imputation for more complex missing data patterns.
@@ -75,7 +77,7 @@ Brief description of your project.
 ## 8. Functionality:
 
 Descriptive Analysis Code:
-File: descriptive_analysis.py
+File: Descriptive_Analysis.py
 
 - Description:
 Calculates descriptive statistics and frequencies.
@@ -87,7 +89,7 @@ Run the script to obtain descriptive statistics.
 Review the generated summary report in 'Result_Data_Summary.xlsx'.
 
 - Frequency Analysis Code:
-File: frequency_analysis.py
+File: Frequency_Analysis.py
 
 - Description:
 Performs frequency analysis on categorical variables.
@@ -114,17 +116,17 @@ Explore the results in 'Main_Results.xlsx'.
 
 1. **Descriptive Analysis:**
     ```bash
-    python descriptive_analysis.py
+    python Descriptive_Analysis.py
     ```
 
 2. **Frequency Analysis:**
     ```bash
-    python frequency_analysis.py
+    python Frequency_Analysis.py
     ```
 
 3. **Data Preprocessing and Regression:**
     ```bash
-    python data_preprocessing_and_regression.py
+    python Regression_Model.py
     ```
 
 Feel free to clone the repository and explore each code file for detailed information.
