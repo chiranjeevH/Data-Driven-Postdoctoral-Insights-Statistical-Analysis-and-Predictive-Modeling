@@ -75,7 +75,7 @@ Brief description of your project.
 ## 7. GitHub Repository Organization
 
 - **Data-Driven-Postdoctoral-Insights:** `README.md`
-- **Functionality:**
+- **Functionality: Description of the project**
 
 ## 8. Functionality:
 
