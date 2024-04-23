@@ -13,7 +13,27 @@ Brief description of your project.
 6. [Sensitivity Analysis](#6-sensitivity-analysis)
 7. [GitHub Repository Organization](#7-github-repository-organization)
 
-## 1. Data Preparation and Exploration
+
+
+## 1. Missing Data Analysis ssing Descriptive Analysis - to summarize the data.
+
+- **Code Title:** `Descriptive_Analysis.py`
+- **Functionality:**
+  - Perform a descriptive analysis of missing data.
+  - Calculate missing data percentages.
+  - Explore missing data patterns across variables.
+  - Visualize missing data.
+
+## 2. Frequency Analysis
+
+- **Code Title:** `Frequency_Analysis.py`
+- **Functionality:**
+  - Generate frequency tables for categorical variables.
+  - Include percentages and cumulative frequencies.
+  - Handle missing values in frequency tables.
+  - Save results to Excel.
+
+## 3. Data Preparation and Exploration
 
 - **Code Title:** `Regression_Model.py` 
 - **Functionality:**
@@ -23,24 +43,6 @@ Brief description of your project.
   - Filter data based on specific criteria.
   - Conduct exploratory data analysis (EDA).
   - Identify missing data patterns.
-
-## 2. Missing Data Analysis ssing Descriptive Analysis - to summarize the data.
-
-- **Code Title:** `Descriptive_Analysis.py`
-- **Functionality:**
-  - Perform a descriptive analysis of missing data.
-  - Calculate missing data percentages.
-  - Explore missing data patterns across variables.
-  - Visualize missing data.
-
-## 3. Frequency Analysis
-
-- **Code Title:** `Frequency_Analysis.py`
-- **Functionality:**
-  - Generate frequency tables for categorical variables.
-  - Include percentages and cumulative frequencies.
-  - Handle missing values in frequency tables.
-  - Save results to Excel.
 
 ## 4. Linear Regression Models
 
